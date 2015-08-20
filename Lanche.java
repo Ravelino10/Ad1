@@ -14,6 +14,4 @@ abstract class Lanche {
 		this.preco4 = preco4;
 	}	
 	
-	Carne 
-	
 }
