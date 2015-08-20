@@ -1,6 +1,6 @@
 abstract class Ingredientes {
 
-	double preco;
+	static double preco;
 
 	Ingredientes(double preco) {
 		this.preco = preco;
